@@ -1,0 +1,13 @@
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojAssemblyReference.cache
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form3.resources
+C:\Users\vannt\source\repos\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form4.resources
